@@ -154,3 +154,16 @@ netflix-member-insights-analytics-platform/
 ### 1. Generate Data
 ```bash
 python ingestion/generate_events.py
+
+## Business Relevance to Supply Chain & Forecasting
+
+This platform simulates a production-grade data pipeline that can be directly applied to aerospace supply chain and demand forecasting use cases.
+
+- Event-based ingestion models real-world demand signals (e.g., part usage, customer orders)
+- ETL pipelines mirror supply chain data processing workflows
+- Analytics layer can be extended to support:
+  - Demand forecasting (ARIMA, regression models)
+  - Inventory optimization strategies
+  - Supply planning and logistics decision-making
+
+This architecture reflects scalable data systems used in manufacturing, logistics, and aerospace operations.
