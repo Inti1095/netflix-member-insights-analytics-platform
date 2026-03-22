@@ -167,3 +167,10 @@ This platform simulates a production-grade data pipeline that can be directly ap
   - Supply planning and logistics decision-making
 
 This architecture reflects scalable data systems used in manufacturing, logistics, and aerospace operations.
+
+
+## Forecasting Extension
+
+A demand forecasting model has been implemented using ARIMA to simulate supply chain demand prediction.
+
+See: notebooks/forecasting_model.ipynb
